@@ -6,3 +6,7 @@ It includes:
  - Grover’s Algorithm – Demonstrates quantum search on unsorted data.
  - Entanglement Circuits – Builds simple circuits to create entangled qubits using Qiskit.
  - Bell States – Prepares and measures Bell states to explore quantum correlations.
+
+##Technologies Used:
+   - Qikist: Quantum computing framework for building and simulating quantum circuits.
+   - IBM Quantum Experience: Cloud-based platform for running quantum circuits on real IBM quantum computers.
