@@ -1,6 +1,6 @@
 # mini-quantum-projects
 
-A small library with quantum computing projects I created during the Qubit by Qubit Introduction to Quantum Computing year-long course, to practice Qiskit and learn quantum mechanics concepts. The main goal is to experiment with fundamental quantum computing tasks and understand how quantum algorithms and circuits work.
+A small library with some of the quantum computing projects I created during the Qubit by Qubit Introduction to Quantum Computing year-long course, to practice Qiskit and learn quantum mechanics concepts. The main goal is to experiment with fundamental quantum computing tasks and understand how quantum algorithms and circuits work.
 
 It includes:
  - Grover’s Algorithm – Demonstrates quantum search on unsorted data.
